@@ -1,3 +1,12 @@
+University: [ITMO University](https://itmo.ru/ru/)
+Faculty: [FICT](https://fict.itmo.ru)
+Course: [Cloud platforms as the basis of technology entrepreneurship](https://) ADD link
+Year: 2025
+Group: UVB
+Author: Gibadulin Timur Rashidovich
+Lab: Lab1
+Date of create: 21.04.2025
+Date of finished: 
 Был создан сервер аккаунт с нужной ролью
 ![image](https://github.com/user-attachments/assets/8a2e0913-9084-4a69-bd14-40fd9025b978)
 создана виртуальная машина
