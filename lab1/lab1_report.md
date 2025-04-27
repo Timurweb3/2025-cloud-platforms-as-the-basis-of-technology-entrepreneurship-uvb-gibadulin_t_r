@@ -14,7 +14,7 @@ Lab: Lab1
 
 Date of create: 21.04.2025
 
-Date of finished: 
+Date of finished: 25.04.2025
 
 
 Был создан сервер аккаунт с нужной ролью
