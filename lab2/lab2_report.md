@@ -14,7 +14,7 @@ Lab: Lab2
 
 Date of create: 27.04.2025
 
-Date of finished: 
+Date of finished: 28.04.2025
 
 Для работы был создан cloud run с портом 8080, минимальной памятью 128 mib, ожиданием запроса в 5 минут. Из ресурсов был взят стандартный тестовый образ от google gcr.io/cloudrun/hello
 
