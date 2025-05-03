@@ -14,7 +14,7 @@ Lab: Lab3
 
 Date of create: 02.05.2025
 
-Date of finished: 
+Date of finished: 02.05.2025
 
 Для выполнения работы был создан свой собственный бакет
 
